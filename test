@@ -1,0 +1,5 @@
+- name: Content list
+  uses: enricomarino/actions@v2
+  with:
+    # The folder to inspect
+    source: # default is /
