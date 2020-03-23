@@ -1,1 +1,13 @@
+Web technologies:
+     Front-End (design): 
+          HTML, 
+          CSS, 
+          Bootstrap
+          JS 
 
+     Back-End: 
+          php framework, 
+          LARAVEL
+
+     Database: 
+          php myAdmin
